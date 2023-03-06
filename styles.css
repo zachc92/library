@@ -1,0 +1,16 @@
+#new-book-form {
+    display: none;
+}
+
+.my-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#library {
+    display: flex;
+}
+
+#library > div {
+    background: grey;
+}
